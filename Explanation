@@ -1,0 +1,7 @@
+we are basically dealing with the binary classification problem which has many NLP solutions.Amoung them i feel BERT works much better.
+BERT is Bidirectional encoder representations for transfromers is a new method for pretraining language representation developed by Google in 2018.
+here we are doing sentence level analysis using BERT and it supports 10 languages but we are focusing on English 
+To fine-tune, they apply a single new layer and softmax on top of the pre-trained model but you can customize it. 
+BERT results improve significantly when it is trained in larger data sets but BERT is a deep bidirectional representation model for general-purpose “language understanding” 
+it learns information from left to right and from right to left.
+BERT is pre-trained from unlabeled data extracted from BooksCorpus (800M words) and English Wikipedia (2,500M words)he drawback is that it takes quite a long time to train
