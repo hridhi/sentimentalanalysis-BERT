@@ -12,3 +12,7 @@ geeks for geeks tutorial for understanding BERT-NLP
         
 article on better sentimental analysis with BERT
         https://github.com/duyunshu/bert-sentiment-analysis/blob/master/BERT_analysis.ipynb
+        
+
+predicting movie reviews using BERT by google researchers
+        https://github.com/google-research/bert/blob/master/predicting_movie_reviews_with_bert_on_tf_hub.ipynb
